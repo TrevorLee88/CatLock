@@ -6,6 +6,6 @@
 
 Cat Lock will stay infront of your text documents and can be activated with a simple click. This then shields your work from unwanted keypresses.
 
-For a precompiled version download is here: https://boldnobold.com/CatLock.html
+For a precompiled version download is here: https://boldnobold.com/CatLock.zip
 
 ![demo gif](https://boldnobold.com/catlock.gif)
